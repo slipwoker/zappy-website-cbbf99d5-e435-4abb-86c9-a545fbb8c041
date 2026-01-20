@@ -1,0 +1,58 @@
+# Coral — Generative Engine Optimization Map
+
+> A retail business.
+
+---
+
+## Pages
+
+### Home
+https://coral-cbbf99d5.zappy5.app
+Explore luxurious chanel fine jewelry and high end jewelry collections at Coral. Unique designs for engaged couples and luxury collectors.
+
+### Collections
+https://coral-cbbf99d5.zappy5.app/services
+Browse Coral's curated high end jewelry collections including chanel fine jewelry, bridal pieces, and investment-grade luxury items.
+
+### About
+https://coral-cbbf99d5.zappy5.app/about
+Discover Coral's commitment to exceptional high end jewelry, ethical sourcing, and supporting coral reef restoration through luxury.
+
+### Contact
+https://coral-cbbf99d5.zappy5.app/contact
+Contact Coral for personalized chanel fine jewelry consultations. Visit our boutique or schedule a private appointment to explore high end jewelry.
+
+## Legal & Policy
+
+### Privacy Policy
+https://coral-cbbf99d5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://coral-cbbf99d5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://coral-cbbf99d5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Coral
+Coral is a business in the retail industry.
+
+## Target Audience
+- Engaged Couples
+- Luxury Jewelry Collectors
+
+## Industry
+retail
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://coral-cbbf99d5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://coral-cbbf99d5.zappy5.app/robots.txt

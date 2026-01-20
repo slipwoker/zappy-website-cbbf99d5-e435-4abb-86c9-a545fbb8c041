@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coral-cbbf99d5.zappy5.app/sitemap.xml
